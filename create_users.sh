@@ -34,5 +34,5 @@ done < "$USER_FILE"
 
 #Exemple fonctionnel
 
-#michael;$6$FDFE22...HASH...;Michael NDE;+237654000000;/bin/bash
-#jean;$6$A7GF8H...HASH...;Jean NDE;+237650000000;/bin/zsh
+#michael;$6$FDFE22...HASH...;Michael B.;+237654000000;/bin/bash
+#jean;$6$A7GF8H...HASH...;Jean M.;+237650000000;/bin/zsh
