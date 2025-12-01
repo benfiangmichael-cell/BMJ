@@ -1,0 +1,7 @@
+Port 2222
+PermitRootLogin no
+PasswordAuthentication yes
+MaxAuthTries 3
+ClientAliveInterval 300
+LoginGraceTime 20
+AllowUsers michael jean
