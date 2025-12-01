@@ -1,0 +1,5 @@
+# Exemple de fichier terraform.tfvars
+# Faites-en une copie sous le nom "terraform.tfvars" avant d’exécuter Terraform.
+
+server_ip = "196.168.10.25"
+ssh_port  = 2222
