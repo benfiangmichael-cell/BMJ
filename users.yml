@@ -1,0 +1,14 @@
+users:
+  - username: michael
+    password: "$6$DFE7A3...HASH..."
+    fullname: "Michael B."
+    phone: "+237698782086"
+    shell: "/bin/bash"
+    email: "michaelbenfiang@gmail.com"
+
+  - username: jean
+    password: "$6$A9FGD1...HASH..."
+    fullname: "Jean M."
+    phone: "+237690888752"
+    shell: "/bin/zsh"
+    email: "effamebengajean1@gmail.com"
