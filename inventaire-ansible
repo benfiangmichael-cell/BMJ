@@ -1,2 +1,2 @@
 [serveur]
-myserver ansible_host=IP.DU.SERVEUR ansible_user=root ansible_port=22
+myserver ansible_host=37.60.250.220 ansible_user=root ansible_port=22
