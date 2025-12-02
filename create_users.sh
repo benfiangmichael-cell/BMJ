@@ -1,7 +1,7 @@
 #!/bin/bash
 
 USER_FILE="users.txt"
-SERVER_IP="IP.DU.SERVEUR"
+SERVER_IP="37.60.250.220"
 SSH_PORT="2222"
 MAIL_SENDER="admin@serveur.com"
 
