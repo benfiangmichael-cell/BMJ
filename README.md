@@ -67,4 +67,4 @@ terraform init
 terraform apply
 
 ## Auteurs
-BENFIANG Michael James && EFFAH MEBENGA Jean – Étudiants en L3 Informatique – Spécialité Réseaux (Université de Yaoundé I)
+BENFIANG Michael James – Étudiant en L3 Informatique – Spécialité Réseaux (Université de Yaoundé I)
